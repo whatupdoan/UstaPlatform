@@ -3,8 +3,8 @@ namespace UstaPlatform.Domain
     public class Usta
     {
         public int Id { get; init; }
-        public string Ad { get; set; }
-        public string Uzmanlik { get; set; }
+        public required string Ad { get; init; }
+        public required string Uzmanlik { get; init; }
         public double Puan { get; set; }
         public int GunlukIsSayisi { get; set; }
 

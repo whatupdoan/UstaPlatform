@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NesneOdev3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d80579746f9cd66796ae276e570c34f0e5b62c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e87097d53dd3e51861f0042cb9f0ceb7c46b51b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NesneOdev3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NesneOdev3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

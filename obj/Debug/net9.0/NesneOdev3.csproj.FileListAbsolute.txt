@@ -1,0 +1,15 @@
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/bin/Debug/net9.0/NesneOdev3
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/bin/Debug/net9.0/NesneOdev3.deps.json
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/bin/Debug/net9.0/NesneOdev3.runtimeconfig.json
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/bin/Debug/net9.0/NesneOdev3.dll
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/bin/Debug/net9.0/NesneOdev3.pdb
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.AssemblyInfoInputs.cache
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.AssemblyInfo.cs
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.csproj.CoreCompileInputs.cache
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.sourcelink.json
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.dll
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/refint/NesneOdev3.dll
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.pdb
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/NesneOdev3.genruntimeconfig.cache
+/Users/muhammetdogan/PycharmProjects/NesneOdev3/obj/Debug/net9.0/ref/NesneOdev3.dll
